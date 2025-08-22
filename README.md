@@ -1,5 +1,4 @@
 # NeverMind — Internal README  
-⚠️ **CONFIDENTIAL — INTERNAL USE ONLY**  
 Do **not** distribute, publish, or upload this project, its documentation, or related data outside the approved team. This repository is intended solely as a private R&D workspace.  
 
 ---
